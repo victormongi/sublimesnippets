@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+
+<div class="form-group">
+    <label for="${1}">${2}</label>
+    <input type="text" class="form-control" id="${1}" name="${1}" placeholder="${2}">
+</div>
+
+${0}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bstext</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
